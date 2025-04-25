@@ -16,4 +16,3 @@ My main interest is the study of soil predatory mites, especially those belongin
 *Oloopticus reticulatus* Karg
 
 ![acaritos](Oloopticus.jpeg)
-
