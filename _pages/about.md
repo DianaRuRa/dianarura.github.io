@@ -9,5 +9,8 @@ redirect_from:
 
 ## Short CV
 
-I am a "Beatriz Galindo" (tenure-track) “Distinguished (Junior) Professor” at the [Department of Applied Mathematics in Aerospace Engineering](https://numath.dmae.upm.es/) of the Polytechnic University of Madrid (UPM). I previously served as an Interim Professor at RWTH Aachen University, as a Postdoctoral Researcher at University of Cologne, and as a "Marie Skłodowska-Curie" Early Stage Researcher at UPM. I am a Mechanical Engineer and hold a Ph.D. in Aerospace Engineering. My research focuses on modern high-order Discontinuous Galerkin (DG) methods for computational fluid dynamics and plasma physics, as well as in developing high-performance parallel computing tools. 
+My main interest is the study of soil predatory mites, especially those belonging to the order Mesostigmata. I am interested in their taxonomy, morphology, diversity, ecology, and practical use for the biological control of agricultural pests. I am also studying nematodes in agricultural soils as important organisms in soil food webs. Currently, my research is focused on better understanding the interactions that Mesostigmata mites have in the soil with other organisms such as nematodes and trying to restore some trophic relationships in agroecosystems. My current research seeks to have a conservation biological control approach. 
 
+![acaritos](DianaAlgodon.jpeg)
+
+![acaritos](Oloopticus.jpeg "*Oloopticus reticulatus* Karg")

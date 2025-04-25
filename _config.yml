@@ -9,43 +9,43 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "dark"
-title                    : "Andrés Rueda-Ramírez"
+title                    : "Diana Rueda-Ramírez"
 title_separator          : "-"
-name                     : &name "Andrés Rueda-Ramírez"
+name                     : &name "Diana Rueda-Ramírez"
 description              : &description "personal description"
-url                      : https://amrueda.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://dianarura.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "amrueda/amrueda.github.io"
+repository               : "DianaRuRa/dianarura.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Photo_cropped2.png"
-  name             : "Andrés Rueda-Ramírez"
-  pronouns         : "(he/him)"  
-  bio              : "Professor"
-  location         : "Madrid, Spain"
-  employer         : "Polytechnic University of Madrid"
+  avatar           : "IMG_2696.jpg"
+  name             : "Diana Rueda-Ramírez"
+  pronouns         : "(she/her)"  
+  bio              : "Researcher"
+  location         : "Berlin, Germany"
+  employer         : "Humboldt Universität zu Berlin"
   uri              : # URL
-  email            : "am.rueda@upm.es" 
+  email            : "ruedadia@hu-berlin.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=P1Ck1ogAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=I6DsQUAAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0001-6557-9162"
+  orcid            : "https://orcid.org/0000-0002-7642-2256"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Andres-Rueda-Ramirez" # URL
+  researchgate     : "https://www.researchgate.net/profile/Diana-Rueda-Ramirez" # URL
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "amrueda"
+  github           : # "DianaRuRa"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
