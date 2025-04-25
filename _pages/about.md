@@ -13,4 +13,5 @@ My main interest is the study of soil predatory mites, especially those belongin
 
 ![acaritos](DianaAlgodon.jpeg)
 
-![acaritos](Oloopticus.jpeg "*Oloopticus reticulatus* Karg")
+![acaritos](Oloopticus.jpeg)
+*Oloopticus reticulatus* Karg
